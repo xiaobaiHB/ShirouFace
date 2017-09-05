@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="watchHandHM">#FFC2E3EB</color>
+    <color name="watchHandS">#FFD86E42</color>
+    <color name="watchTick">#FFF8ED7E</color>
+    <color name="watchHandShadow">#FF293A42</color>
+    <color name="watchFaceBG">#000000</color>
+
+</resources>
